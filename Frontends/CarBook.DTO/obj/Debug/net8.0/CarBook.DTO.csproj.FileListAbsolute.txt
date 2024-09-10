@@ -1,0 +1,11 @@
+C:\Users\Alperen\Desktop\dotnetmyprojects\carbook\CarBook\Frontends\CarBook.DTO\bin\Debug\net8.0\CarBook.DTO.deps.json
+C:\Users\Alperen\Desktop\dotnetmyprojects\carbook\CarBook\Frontends\CarBook.DTO\bin\Debug\net8.0\CarBook.DTO.dll
+C:\Users\Alperen\Desktop\dotnetmyprojects\carbook\CarBook\Frontends\CarBook.DTO\bin\Debug\net8.0\CarBook.DTO.pdb
+C:\Users\Alperen\Desktop\dotnetmyprojects\carbook\CarBook\Frontends\CarBook.DTO\obj\Debug\net8.0\CarBook.DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alperen\Desktop\dotnetmyprojects\carbook\CarBook\Frontends\CarBook.DTO\obj\Debug\net8.0\CarBook.DTO.AssemblyInfoInputs.cache
+C:\Users\Alperen\Desktop\dotnetmyprojects\carbook\CarBook\Frontends\CarBook.DTO\obj\Debug\net8.0\CarBook.DTO.AssemblyInfo.cs
+C:\Users\Alperen\Desktop\dotnetmyprojects\carbook\CarBook\Frontends\CarBook.DTO\obj\Debug\net8.0\CarBook.DTO.csproj.CoreCompileInputs.cache
+C:\Users\Alperen\Desktop\dotnetmyprojects\carbook\CarBook\Frontends\CarBook.DTO\obj\Debug\net8.0\CarBook.DTO.dll
+C:\Users\Alperen\Desktop\dotnetmyprojects\carbook\CarBook\Frontends\CarBook.DTO\obj\Debug\net8.0\refint\CarBook.DTO.dll
+C:\Users\Alperen\Desktop\dotnetmyprojects\carbook\CarBook\Frontends\CarBook.DTO\obj\Debug\net8.0\CarBook.DTO.pdb
+C:\Users\Alperen\Desktop\dotnetmyprojects\carbook\CarBook\Frontends\CarBook.DTO\obj\Debug\net8.0\ref\CarBook.DTO.dll

@@ -1,0 +1,26 @@
+@{
+    ViewData["Title"] = "Detail";
+    Layout = null;
+}
+
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    @await Component.InvokeAsync("_HeadUILayoutViewComponentPartial")
+  </head>
+  <body>
+    
+	  @await Component.InvokeAsync("_NavUILayoutViewComponentPartial")
+    
+    @await Component.InvokeAsync("_BlogDetailCoverComponentPartial")
+
+   <!--heresection-->
+    @await Component.InvokeAsync("_BlogDetailComponentPartial", new {id = ViewBag.Id})
+    @await Component.InvokeAsync("_FooterUILayoutViewComponentPartial")
+
+
+    @await Component.InvokeAsync("_ScriptsUILayoutViewComponentPartial")
+    
+  </body>
+</html>

@@ -1,0 +1,115 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Alperen\\Desktop\\dotnetmyprojects\\carbook\\CarBook\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C577DFCC-7D6E-4532-AFB9-708E57A3F62E}|CarBook.Application\\CarBook.Application.csproj|c:\\users\\alperen\\desktop\\dotnetmyprojects\\carbook\\carbook\\carbook.application\\features\\mediator\\handlers\\bloghandlers\\getblogdetailqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C577DFCC-7D6E-4532-AFB9-708E57A3F62E}|CarBook.Application\\CarBook.Application.csproj|solutionrelative:carbook.application\\features\\mediator\\handlers\\bloghandlers\\getblogdetailqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3A74512-6810-44F8-A88A-C4451B704683}|Frontends\\CarBook.WebUI\\CarBook.WebUI.csproj|c:\\users\\alperen\\desktop\\dotnetmyprojects\\carbook\\carbook\\frontends\\carbook.webui\\viewcomponents\\blogviewcomponents\\_blogdetailcomponentpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3A74512-6810-44F8-A88A-C4451B704683}|Frontends\\CarBook.WebUI\\CarBook.WebUI.csproj|solutionrelative:frontends\\carbook.webui\\viewcomponents\\blogviewcomponents\\_blogdetailcomponentpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3A74512-6810-44F8-A88A-C4451B704683}|Frontends\\CarBook.WebUI\\CarBook.WebUI.csproj|c:\\users\\alperen\\desktop\\dotnetmyprojects\\carbook\\carbook\\frontends\\carbook.webui\\views\\shared\\components\\_blogdetailcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D3A74512-6810-44F8-A88A-C4451B704683}|Frontends\\CarBook.WebUI\\CarBook.WebUI.csproj|solutionrelative:frontends\\carbook.webui\\views\\shared\\components\\_blogdetailcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16B751BA-1618-4F93-9A48-7DBED4A47C71}|Frontends\\CarBook.DTO\\CarBook.DTO.csproj|c:\\users\\alperen\\desktop\\dotnetmyprojects\\carbook\\carbook\\frontends\\carbook.dto\\dtos\\blogdtos\\blogdetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16B751BA-1618-4F93-9A48-7DBED4A47C71}|Frontends\\CarBook.DTO\\CarBook.DTO.csproj|solutionrelative:frontends\\carbook.dto\\dtos\\blogdtos\\blogdetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3A74512-6810-44F8-A88A-C4451B704683}|Frontends\\CarBook.WebUI\\CarBook.WebUI.csproj|c:\\users\\alperen\\desktop\\dotnetmyprojects\\carbook\\carbook\\frontends\\carbook.webui\\controllers\\blogscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3A74512-6810-44F8-A88A-C4451B704683}|Frontends\\CarBook.WebUI\\CarBook.WebUI.csproj|solutionrelative:frontends\\carbook.webui\\controllers\\blogscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GetBlogDetailQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Alperen\\Desktop\\dotnetmyprojects\\carbook\\CarBook\\CarBook.Application\\Features\\Mediator\\Handlers\\BlogHandlers\\GetBlogDetailQueryHandler.cs",
+              "RelativeDocumentMoniker": "CarBook.Application\\Features\\Mediator\\Handlers\\BlogHandlers\\GetBlogDetailQueryHandler.cs",
+              "ToolTip": "C:\\Users\\Alperen\\Desktop\\dotnetmyprojects\\carbook\\CarBook\\CarBook.Application\\Features\\Mediator\\Handlers\\BlogHandlers\\GetBlogDetailQueryHandler.cs",
+              "RelativeToolTip": "CarBook.Application\\Features\\Mediator\\Handlers\\BlogHandlers\\GetBlogDetailQueryHandler.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAABcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T13:15:34.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BlogDetailDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Alperen\\Desktop\\dotnetmyprojects\\carbook\\CarBook\\Frontends\\CarBook.DTO\\Dtos\\BlogDtos\\BlogDetailDTO.cs",
+              "RelativeDocumentMoniker": "Frontends\\CarBook.DTO\\Dtos\\BlogDtos\\BlogDetailDTO.cs",
+              "ToolTip": "C:\\Users\\Alperen\\Desktop\\dotnetmyprojects\\carbook\\CarBook\\Frontends\\CarBook.DTO\\Dtos\\BlogDtos\\BlogDetailDTO.cs",
+              "RelativeToolTip": "Frontends\\CarBook.DTO\\Dtos\\BlogDtos\\BlogDetailDTO.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T22:00:01.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_BlogDetailComponentPartial.cs",
+              "DocumentMoniker": "C:\\Users\\Alperen\\Desktop\\dotnetmyprojects\\carbook\\CarBook\\Frontends\\CarBook.WebUI\\ViewComponents\\BlogViewComponents\\_BlogDetailComponentPartial.cs",
+              "RelativeDocumentMoniker": "Frontends\\CarBook.WebUI\\ViewComponents\\BlogViewComponents\\_BlogDetailComponentPartial.cs",
+              "ToolTip": "C:\\Users\\Alperen\\Desktop\\dotnetmyprojects\\carbook\\CarBook\\Frontends\\CarBook.WebUI\\ViewComponents\\BlogViewComponents\\_BlogDetailComponentPartial.cs",
+              "RelativeToolTip": "Frontends\\CarBook.WebUI\\ViewComponents\\BlogViewComponents\\_BlogDetailComponentPartial.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAA/wBYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T21:57:32.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BlogsController.cs",
+              "DocumentMoniker": "C:\\Users\\Alperen\\Desktop\\dotnetmyprojects\\carbook\\CarBook\\Frontends\\CarBook.WebUI\\Controllers\\BlogsController.cs",
+              "RelativeDocumentMoniker": "Frontends\\CarBook.WebUI\\Controllers\\BlogsController.cs",
+              "ToolTip": "C:\\Users\\Alperen\\Desktop\\dotnetmyprojects\\carbook\\CarBook\\Frontends\\CarBook.WebUI\\Controllers\\BlogsController.cs",
+              "RelativeToolTip": "Frontends\\CarBook.WebUI\\Controllers\\BlogsController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAwwAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T21:42:14.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\Alperen\\Desktop\\dotnetmyprojects\\carbook\\CarBook\\Frontends\\CarBook.WebUI\\Views\\Shared\\Components\\_BlogDetailComponentPartial\\Default.cshtml",
+              "RelativeDocumentMoniker": "Frontends\\CarBook.WebUI\\Views\\Shared\\Components\\_BlogDetailComponentPartial\\Default.cshtml",
+              "ToolTip": "C:\\Users\\Alperen\\Desktop\\dotnetmyprojects\\carbook\\CarBook\\Frontends\\CarBook.WebUI\\Views\\Shared\\Components\\_BlogDetailComponentPartial\\Default.cshtml",
+              "RelativeToolTip": "Frontends\\CarBook.WebUI\\Views\\Shared\\Components\\_BlogDetailComponentPartial\\Default.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-07T21:42:08.115Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
